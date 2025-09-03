@@ -8,12 +8,6 @@ This project is an **immersive game built with Python and OpenGL**, combining fu
 - **Algorithmic Elegance:** Merges classic computer graphics principles with modern OpenGL capabilities.
 - **Interactive Experience:** Engaging for players of all levels with intuitive controls.
 
-## Screenshots 🖼️
-Enhance your understanding of the game with visuals:
-
-![Game Screenshot 1](path/to/your-image1.png)
-![Game Screenshot 2](path/to/your-image2.png)
-
 *You can replace the paths above with your actual image files in the repository.*
 
 ## Installation 🛠️
