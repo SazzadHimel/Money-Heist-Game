@@ -10,8 +10,6 @@ This project is an **immersive game built with Python and OpenGL**, combining fu
 
 *You can replace the paths above with your actual image files in the repository.*
 
-## Installation 🛠️
-
 --- ----------- -------- --------------- -------------
 
 If you want, I can **also make it look even fancier** by:  
